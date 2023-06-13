@@ -1,3 +1,3 @@
-# A different comment
+# MergeConflicts remote changes
 
-other stuff
+some stuff
